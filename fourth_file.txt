@@ -1,2 +1,3 @@
 fourth file.
 and second row of text
+third line of text
