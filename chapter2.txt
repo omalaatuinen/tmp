@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 asasdkkalssssssssssssss
 
 добавили изменения.
@@ -7,4 +8,9 @@ asasdkkalssssssssssssss
 ddss
 
 
+=======
+добавили изменения.
+
+другая строка
+>>>>>>> feature
 
